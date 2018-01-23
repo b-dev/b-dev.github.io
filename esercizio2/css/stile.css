@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: 'Roboto', sans-serif;
+}
+
+#header {
+    padding: 15px;
+    background-color: #212529;
+    color: #fff;
+    width: 100%;
+}
+
+.contenitore {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+#logo {
+    font-size: 25px;
+    color: #fed136;
+    font-family: 'Kaushan Script','Helvetica Neue',Helvetica,Arial,cursive;
+}
+
+ul#menu li a {
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Droid Serif','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    text-align: center
+}
+
+.section {
+    padding: 150px 0px;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.section h3 {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    color: #868e96;
+}
